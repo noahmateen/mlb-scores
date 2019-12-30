@@ -40,6 +40,7 @@ class LineScoreTable extends StatelessWidget {
         ),
       ),
       children: [
+        // TODO: Fix width of first column to fit team name
         _buildTableRow([
           '',
           '1',
